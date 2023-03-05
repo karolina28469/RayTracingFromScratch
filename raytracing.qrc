@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>loading.gif</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>reset.png</file>
+    </qresource>
+</RCC>

@@ -14,6 +14,9 @@
 ## About the project
 Project implements raytracing algorithm from scatch. It includes a virtual three-dimensional scene containing various textured objects. To make these objects more realistic all of them have some special effect which imitate different surface finish such as: matte, shiny, slightly glossy and mirror effect. Additionaly several light sources were created, to add more depth and dimension to the space. Every scene is rendered using the raytracing technique.
 
+[More about the raytracing algorithm: WIKI PAGE](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)#Algorithm_overview)
+
+
 ## Technologies
 Project is created with:
 * Qt Creator (IDE)
